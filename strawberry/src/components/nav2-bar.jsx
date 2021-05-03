@@ -5,8 +5,8 @@ function Nav2Bar(){
     return(
         <div className = "nav2bar-container">
             <div className = "nav2bar-left-conatiner">
-                <p className = "nav2bar-para">+91 9849765102</p>
-                <p className = "nav2bar-para">ieeevbitsbdoc@gmail.com</p>
+                <a href="" className = "nav2bar-links">+91 9849765102</a>
+                <a href="" className = "nav2bar-links">ieeevbitsbdoc@gmail.com</a>
             </div>
             <div className = "nav2bar-right-container">
                 <a href = "" className = "nav2bar-links">IEEE.org</a>
